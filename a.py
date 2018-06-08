@@ -1,4 +1,1 @@
-print("hello")
-print("I am liuda")
-pritnsfksdjfds
-papa
+print("hello world")
